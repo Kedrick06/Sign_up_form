@@ -11,9 +11,9 @@ class Input extends Component{
                 <h1>Please Login!</h1>
 
                 <form>
-                <input placeholder='email' type='text'/>
+                <input placeholder='Enter Your Email:' type='text'/>
                  <br/>
-                <input placeholder='Password:' id='submit' type='password'/>
+                <input placeholder='Enter Your Password:' id='submit' type='password'/>
                 <br/>
                 <label for='female'>Female:</label>
                  <input name='gender'id='female'  type='radio'/>
