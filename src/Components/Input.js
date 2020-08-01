@@ -17,6 +17,8 @@ class Input extends Component{
                  <br></br>
                 <input placeholder='Enter Your Password:' id='submit' type='password'/>
                 <br/>
+                <input type="submit" value="Submit" />
+                <br></br>
                 <label for='female'> Female: </label>
                  <input name='gender' id='female'  type='radio'/>
                  <br></br>
@@ -27,6 +29,7 @@ class Input extends Component{
                  <br/>
                 <input type='text' placeholder='Enter Your City:' name='city' id='submit'/>
                  <br/>
+                 <input type="submit" value="Submit" />
                 </form>
             </div>
         )
